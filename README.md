@@ -1,12 +1,13 @@
 # yelpCamp
-YelpCamp is a website where users can create and review campgrounds. In order to review or create a campground, you must have an account.
-
-This project was created using Node.js, Express, MongoDB, and Bootstrap.
-Passport.js was used to handle authentication.
+• Designed and created a real-time online booking web app - 'YelpCamp', that allows you to create new and book previously created campgrounds and leave reviews for campgrounds as well!<br/>
+• Technologies used for Front-end were HTML, CSS, Bootstrap and for the Back-end NodeJS, ExpressJS, MongoDB, Mongoose were used.<br/>
+• Implemented User Authorization(Login/Signup) with PassportJS that uses JWTs to create sessions for a certain user after login!
 
 # Features
-Users can create, edit, and remove campgrounds
-Users can review campgrounds, edit or remove their review
+<!-- 1. Users can create, edit, and remove campgrounds
+2. Users can review campgrounds, edit or remove their review -->
+• In order to review or create a campground, you must have an account.<br/>
+• In order to edit or remove a campground or review, you must be the author of that campground or review respectively.
 
 # Preview
 Home
