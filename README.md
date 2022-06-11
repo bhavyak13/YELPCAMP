@@ -4,8 +4,8 @@
 • Implemented User Authorization(Login/Signup) with PassportJS that uses JWTs to create sessions for a certain user after login!
 
 # Features
-<!-- 1. Users can create, edit, and remove campgrounds
-2. Users can review campgrounds, edit or remove their review -->
+1. Users can create, edit, and remove campgrounds.
+2. Users can review campgrounds, edit or remove their review.<br/>
 • In order to review or create a campground, you must have an account.<br/>
 • In order to edit or remove a campground or review, you must be the author of that campground or review respectively.
 
